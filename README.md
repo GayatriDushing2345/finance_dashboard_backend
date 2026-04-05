@@ -92,13 +92,6 @@ http://localhost:8081/swagger-ui/index.html
 
 ---
 
-## Deployment
-
-Deployed API URL:
-(Add your deployed link here)
-
----
-
 ## Notes
 
 * Default users and categories are automatically created when the application starts
