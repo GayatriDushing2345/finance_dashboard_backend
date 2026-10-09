@@ -71,8 +71,7 @@ You can test the APIs using:
 * Postman
 * Swagger UI
 
-Swagger URL (local):
-http://localhost:8081/swagger-ui/index.html
+
 
 ---
 
